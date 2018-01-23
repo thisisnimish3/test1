@@ -4,9 +4,9 @@ thisis new doc
 change 2
 
 
-Id::192308413288
-Type::Bug
-Reviewer::syncuser@opshub.com
+Id::1235
+Type::Defect
+Reviewer::syncuser
 EOT::2
 Status::NotDone
 DCC::-1
