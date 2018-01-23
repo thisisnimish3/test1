@@ -3,10 +3,5 @@ thisis new doc
 
 change 2
 
-Type::Defect
 Id::1235
 Reviewer::syncuser
-EOT::2
-Status::NotDone
-DCC::-1
-Comments:: handling for jira serv
