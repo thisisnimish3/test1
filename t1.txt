@@ -3,9 +3,8 @@ thisis new doc
 
 change 2
 
-
-Id::1235
 Type::Defect
+Id::1235
 Reviewer::syncuser
 EOT::2
 Status::NotDone
